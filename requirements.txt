@@ -4,7 +4,6 @@ setuptools
 wheel
 aiohttp
 python-dotenv
-python3-opencv
 beautifulsoup4
 cfscrape
 cloudscraper
