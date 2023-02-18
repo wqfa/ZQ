@@ -1,1 +1,1 @@
-worker: bash IQ
+worker: bash heroku
