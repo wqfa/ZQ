@@ -1,10 +1,10 @@
-Telethon==1.25.2
+Telethon
 telethon-session-sqlalchemy
 setuptools
 wheel
 aiohttp
 python-dotenv
-python3-opencv
+python-opencv
 beautifulsoup4
 cfscrape
 cloudscraper
