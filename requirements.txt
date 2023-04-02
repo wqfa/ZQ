@@ -83,6 +83,8 @@ yt-dlp
 youtube_dl
 moviepy
 randomstuff.py
+py-tgcalls==0.9.1
+nodejs
 
 git+https://github.com/buddhhu/img2html.git
 git+https://github.com/sandy1709/py-googletrans
