@@ -84,7 +84,9 @@ youtube_dl
 moviepy
 randomstuff.py
 git+https://github.com/pytgcalls/pytgcalls
-
+pyminizip
+pybase64
+covid
 
 git+https://github.com/buddhhu/img2html.git
 git+https://github.com/sandy1709/py-googletrans
