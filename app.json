@@ -1,7 +1,7 @@
 {
   "name": "The original Arab Telethon source",
-  "description": "Welcome to the Arab Telethon 7.8v { @iqthon }",
-  "logo": "https://telegra.ph/file/1bf9c1b0a084c258b1f97.jpg",
+  "description": "Welcome to the Arab Telethon 8.1v { @iqthon }",
+  "logo": "https://telegra.ph/file/795bd80cbb23748657b4c.jpg",
   "keywords": ["plugin","modular","productivity"],
   "repository": "https://github.com/help-iq2/telethon",
   "website": "#TODO",
@@ -38,11 +38,6 @@
     "TZ": {
       "description": "ضع القاره / عاصمة بلدك ( اذا كنت لاتعرفه اتركة كما هوة )",
       "value": "Asia/Baghdad",
-      "required": false
-    },
-    "UPSTREAM_REPO": {
-      "description": "لاتغيرة",
-      "value": "TelethonAr",
       "required": false
     }
   },
