@@ -1,1 +1,1 @@
-worker: bash you
+worker: bash github
