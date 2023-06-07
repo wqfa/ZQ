@@ -1,1 +1,1 @@
-worker: bash github
+worker: bash new
