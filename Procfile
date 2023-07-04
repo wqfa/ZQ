@@ -1,1 +1,1 @@
-worker: bash new
+worker: bash srt
