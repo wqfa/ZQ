@@ -1,7 +1,7 @@
 {
-  "name": "The original Arab Telethon source",
-  "description": "Welcome to the Arab Telethon 8.1v { @iqthon }",
-  "logo": "https://telegra.ph/file/795bd80cbb23748657b4c.jpg",
+  "name": "The original VebThon source",
+  "description": "Welcome to the VebThon 8.1v { @Vebthon }",
+  "logo": "https://telegra.ph/file/e3223ec2de13eed172c46.jpg",
   "keywords": ["plugin","modular","productivity"],
   "repository": "https://github.com/help-iq2/telethon",
   "website": "#TODO",
